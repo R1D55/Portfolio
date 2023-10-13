@@ -1,0 +1,162 @@
+Livetech notes
+*Boilet plate = description of web page
+why do we use it 
+Meta tags  
+HTML ROOT element 
+*case insensitive Doctype 
+*Tags = 
+DOCTYPE = webpage doc
+viewport = webpage resolution
+*utf = unicode transforming format
+emmet abr = description with short hand 
+
+TOMORROW TOPICS
+tags = Opening and closing syntax (HTML) semi colon syntax 
+(css)
+
+Tags
+hr horizontal
+br break
+pr predefined text
+
+elements = heading with the tags
+comments = information for programmer 
+HTML = <!-- --> shortcut ctrl + /
+Css = /**/ Properties : content; 
+Javascript = //
+
+attributes = additional properties for the tag
+src source
+alt alternate
+height
+weight
+rel
+href
+type
+
+alt shift up or down = same text below
+alt z wrap text
+
+strong imp
+bold weight (less space)
+href Hyperlink refrence = link
+del strikethrough
+
+
+a tag
+target = parent self top and value blank
+blank to open in another tap
+ 
+superscript up small = 12(th)
+subscript down small = H2O
+mark = highlight text
+
+file open from the folder
+
+p attributes 
+title = info about content
+contenteditable = true (edit) / false (no edit)
+
+inline = inside the tag style
+internal = inside the sourcecode
+external = file
+
+table
+tr = row
+td = data
+th = heading
+
+colspan = coloumn merge
+rowspan = row merge
+
+li = list
+ol = ordered list
+ul = unordered list
+nested list = inside the list one more list
+
+circle square disc 
+
+list style type image and position
+
+form
+class and ids
+block inline
+div and span
+
+div = division or container with contents
+. class = . declaration block element
+# ids = unique ids 
+* universal selector = same content
+tagname
+.class#idname$*no ofvalue 
+span = inline element (specific text edit)
+
+block element = take the whole place 
+inline element = place of content meaningful 
+semantic meaningfull to browser also
+
+iframe = web left or right extra infor
+
+layout = 
+
+marquee = 
+----------------------------------------------------------------------------------------------------------------------------------------
+
+selector = group, tag
+colour = name and numbers
+255 is highest and 0 lowest colour
+ border = top left and right down left and right
+
+ oblique and italic difference
+ start and justify = will start from the 2 finger space
+
+ opaque and tranparency = 0 to 1 and alpha
+
+ url = unifrom resource locator
+
+ box-shadow = Hoffset Voffset blur spread and colour
+
+ background = ryb right left bottom or top
+ 
+
+ nice page template
+
+
+
+ visibity =  collapse or hidden (content disappers)
+ 
+ difference display = none (place gone)
+ visiblity
+
+Position = Absolute, relative, fixed and sticky
+fixed sticks on the position
+sticky elements
+ position (Abs) = TLBR
+
+ absolute = full screen size
+ relative = from the content position size
+
+ float = Left and Right
+
+HOMEOWRK
+overflow =  hidden visible and scroll
+properties X and Y
+
+background origin and properties 
+
+transition = property, duration, timing and functioning and delay
+
+decendant selector 
+combinator selector + ~ 
+
+embed map =   ifram go to 3 line 
+
+:before = 
+
+@media = source
+@screen = full screen
+@print = display
+
+logical operators = and only not
+
+min max and orientation

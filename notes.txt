@@ -1,0 +1,29 @@
+Video = control, autoplay and muted
+Audio = control, autoplay and muted
+
+marquee = direction UDRL
+scrolldelay = value for delay
+scrollamount = value for speeding
+behaviour = sliding, scrolling or alternate
+loop = run
+bgcolor 
+vspace =  
+hspace =
+
+login system 
+username wrong no password
+student marksheet
+marriage burrow
+
+
+Arithmetic +,-, *,/,%
+
+++ = increment , -- = decrement
+
+
+Assignement =,+=, -=/ =,*= Calculator
+Comaprission (==, === equal, !=, !=== not equal)  <,>,<=,>= 
+Logical &&,+,||,!
+Membership in, not in
+Ternary ?
+ 
